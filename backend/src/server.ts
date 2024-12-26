@@ -1,5 +1,5 @@
 import express, { type Application } from "express";
-import { handleAuth } from "../auth.js";
+import { handleAuth } from "./auth/handleAuth.js";
 
 export default function createServer() {
   const app: Application = express();

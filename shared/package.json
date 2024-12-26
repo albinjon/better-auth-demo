@@ -1,0 +1,15 @@
+{
+  "name": "@zbs/shared",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "better-auth": "^1.1.3",
+    "typescript": "^5.7.2"
+  }
+}

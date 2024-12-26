@@ -1,0 +1,8 @@
+{
+  "name": "ZBS Pages",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Mono-repo for the webpages of Zenbuddhistiska Samfundet",
+  "author": "ZBS",
+  "license": "ISC"
+}
